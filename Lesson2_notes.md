@@ -4,3 +4,4 @@ The buttons are like verbs:
 - Add = write
 - Commit = remember
 - Push = share
+testing this new branch thing, im starting to get it.
