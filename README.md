@@ -8,3 +8,4 @@ branch a says hi
 - Never panic—everything can be undone.
 this was written in a different branch
 i am nkw on lesson 4
+git merge main
